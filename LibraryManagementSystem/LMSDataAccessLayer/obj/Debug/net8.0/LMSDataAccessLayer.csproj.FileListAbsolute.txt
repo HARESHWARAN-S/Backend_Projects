@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Presidio\Genspark_Training\C#\Day12\LibraryManagementSystem\LMSDataAccessLayer\bin\Debug\net8.0\LMSDataAccessLayer.deps.json
+C:\Users\HP\Desktop\Presidio\Genspark_Training\C#\Day12\LibraryManagementSystem\LMSDataAccessLayer\bin\Debug\net8.0\LMSDataAccessLayer.dll
+C:\Users\HP\Desktop\Presidio\Genspark_Training\C#\Day12\LibraryManagementSystem\LMSDataAccessLayer\bin\Debug\net8.0\LMSDataAccessLayer.pdb
+C:\Users\HP\Desktop\Presidio\Genspark_Training\C#\Day12\LibraryManagementSystem\LMSDataAccessLayer\bin\Debug\net8.0\LMSModelLibrary.dll
+C:\Users\HP\Desktop\Presidio\Genspark_Training\C#\Day12\LibraryManagementSystem\LMSDataAccessLayer\bin\Debug\net8.0\LMSModelLibrary.pdb
+C:\Users\HP\Desktop\Presidio\Genspark_Training\C#\Day12\LibraryManagementSystem\LMSDataAccessLayer\obj\Debug\net8.0\LMSDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Presidio\Genspark_Training\C#\Day12\LibraryManagementSystem\LMSDataAccessLayer\obj\Debug\net8.0\LMSDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Presidio\Genspark_Training\C#\Day12\LibraryManagementSystem\LMSDataAccessLayer\obj\Debug\net8.0\LMSDataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Presidio\Genspark_Training\C#\Day12\LibraryManagementSystem\LMSDataAccessLayer\obj\Debug\net8.0\LMSDataAccessLayer.AssemblyInfo.cs
+C:\Users\HP\Desktop\Presidio\Genspark_Training\C#\Day12\LibraryManagementSystem\LMSDataAccessLayer\obj\Debug\net8.0\LMSDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Presidio\Genspark_Training\C#\Day12\LibraryManagementSystem\LMSDataAccessLayer\obj\Debug\net8.0\LMSDataAccessLayer.sourcelink.json
+C:\Users\HP\Desktop\Presidio\Genspark_Training\C#\Day12\LibraryManagementSystem\LMSDataAccessLayer\obj\Debug\net8.0\LMSDataA.2D067AC7.Up2Date
+C:\Users\HP\Desktop\Presidio\Genspark_Training\C#\Day12\LibraryManagementSystem\LMSDataAccessLayer\obj\Debug\net8.0\LMSDataAccessLayer.dll
+C:\Users\HP\Desktop\Presidio\Genspark_Training\C#\Day12\LibraryManagementSystem\LMSDataAccessLayer\obj\Debug\net8.0\refint\LMSDataAccessLayer.dll
+C:\Users\HP\Desktop\Presidio\Genspark_Training\C#\Day12\LibraryManagementSystem\LMSDataAccessLayer\obj\Debug\net8.0\LMSDataAccessLayer.pdb
+C:\Users\HP\Desktop\Presidio\Genspark_Training\C#\Day12\LibraryManagementSystem\LMSDataAccessLayer\obj\Debug\net8.0\ref\LMSDataAccessLayer.dll

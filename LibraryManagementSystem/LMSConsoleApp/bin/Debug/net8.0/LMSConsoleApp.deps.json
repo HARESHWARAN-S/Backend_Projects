@@ -1,0 +1,72 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LMSConsoleApp/1.0.0": {
+        "dependencies": {
+          "LMSBusinessLogicLayer": "1.0.0"
+        },
+        "runtime": {
+          "LMSConsoleApp.dll": {}
+        }
+      },
+      "LMSBusinessLogicLayer/1.0.0": {
+        "dependencies": {
+          "LMSDataAccessLayer": "1.0.0",
+          "LMSModelLibrary": "1.0.0"
+        },
+        "runtime": {
+          "LMSBusinessLogicLayer.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "LMSDataAccessLayer/1.0.0": {
+        "dependencies": {
+          "LMSModelLibrary": "1.0.0"
+        },
+        "runtime": {
+          "LMSDataAccessLayer.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "LMSModelLibrary/1.0.0": {
+        "runtime": {
+          "LMSModelLibrary.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LMSConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LMSBusinessLogicLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LMSDataAccessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LMSModelLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

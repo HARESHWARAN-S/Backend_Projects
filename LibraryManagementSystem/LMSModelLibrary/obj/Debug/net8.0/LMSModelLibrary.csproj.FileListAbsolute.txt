@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\Presidio\Genspark_Training\C#\Day12\LibraryManagementSystem\LMSModelLibrary\bin\Debug\net8.0\LMSModelLibrary.deps.json
+C:\Users\HP\Desktop\Presidio\Genspark_Training\C#\Day12\LibraryManagementSystem\LMSModelLibrary\bin\Debug\net8.0\LMSModelLibrary.dll
+C:\Users\HP\Desktop\Presidio\Genspark_Training\C#\Day12\LibraryManagementSystem\LMSModelLibrary\bin\Debug\net8.0\LMSModelLibrary.pdb
+C:\Users\HP\Desktop\Presidio\Genspark_Training\C#\Day12\LibraryManagementSystem\LMSModelLibrary\obj\Debug\net8.0\LMSModelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Presidio\Genspark_Training\C#\Day12\LibraryManagementSystem\LMSModelLibrary\obj\Debug\net8.0\LMSModelLibrary.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Presidio\Genspark_Training\C#\Day12\LibraryManagementSystem\LMSModelLibrary\obj\Debug\net8.0\LMSModelLibrary.AssemblyInfo.cs
+C:\Users\HP\Desktop\Presidio\Genspark_Training\C#\Day12\LibraryManagementSystem\LMSModelLibrary\obj\Debug\net8.0\LMSModelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Presidio\Genspark_Training\C#\Day12\LibraryManagementSystem\LMSModelLibrary\obj\Debug\net8.0\LMSModelLibrary.sourcelink.json
+C:\Users\HP\Desktop\Presidio\Genspark_Training\C#\Day12\LibraryManagementSystem\LMSModelLibrary\obj\Debug\net8.0\LMSModelLibrary.dll
+C:\Users\HP\Desktop\Presidio\Genspark_Training\C#\Day12\LibraryManagementSystem\LMSModelLibrary\obj\Debug\net8.0\refint\LMSModelLibrary.dll
+C:\Users\HP\Desktop\Presidio\Genspark_Training\C#\Day12\LibraryManagementSystem\LMSModelLibrary\obj\Debug\net8.0\LMSModelLibrary.pdb
+C:\Users\HP\Desktop\Presidio\Genspark_Training\C#\Day12\LibraryManagementSystem\LMSModelLibrary\obj\Debug\net8.0\ref\LMSModelLibrary.dll
